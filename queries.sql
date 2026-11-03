@@ -101,7 +101,7 @@ select
 from pizzas
 where nome = 'margherita';
 
--- Para verificar tudo
+-- Verificando
 
 select * from clientes
 where nome like '%Gaspar%';
